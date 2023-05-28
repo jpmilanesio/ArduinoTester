@@ -1,0 +1,10 @@
+constructor:
+	lista de 30 espacios en el uno digito por espacio
+	hacer el alrededor en el constructor 
+	actual_cursor
+
+lcd.init();
+lcd.backlight();
+lcd.clear(); vaciar la lista
+lcd.setCursor(1-15,(si es 0 deja el otro valor)(si es 1> duplica el otro valor)
+

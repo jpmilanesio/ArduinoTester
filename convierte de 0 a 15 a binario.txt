@@ -1,0 +1,2 @@
+convierte de 0 a 15 a binario
+cuente del 0 al 15 en binario con LEDs y cada 1 segundo cambia el numero y despues comienza de nuevo 
